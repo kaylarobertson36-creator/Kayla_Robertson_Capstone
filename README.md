@@ -7,6 +7,7 @@ This repository contains the statistical analysis and data preparation notebook 
 ## Files
 
 - `Health_Impact_Score_Statistical_Analysis.ipynb` — Full EDA, hypothesis testing, VIF multicollinearity analysis, and pre-ML data preparation
+- `Health_Impact_Score_ML_Modeling.ipynb` — Machine learning models (Linear Regression vs Random Forest), hyperparameter tuning, feature importance, and model evaluation
 
 ## Live Data Story
 
